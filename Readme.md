@@ -1,7 +1,7 @@
 ﻿# Личный проект «Нёрдс»
 
 * Студент: [Кирилл Ионов](https://up.htmlacademy.ru/htmlcss/15/user/242797).
-* Наставник: [Алексей Белов](https://up.htmlacademy.ru/htmlcss/15/user/96038).
+* Наставник: [Алексей (%) Белов](https://up.htmlacademy.ru/htmlcss/15/user/96038).
 
 ---
 
